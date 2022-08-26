@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Osvaldo 👋
+
+- 💕 I love to write and sing
+- 🌱 I’m currently learning Java and Python
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m interested in languages and traveling
+- 📫 How to reach me: resendiz.tolentino.osvaldo@gmail.com
+- 😄 I know CSS, HTML, BOOTSTRAP
 
 <!--
 **OsvaldoReTo/OsvaldoReTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
